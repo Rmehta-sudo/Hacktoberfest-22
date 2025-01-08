@@ -1,3 +1,3 @@
 a=int(input("enter "))
 b=int(input("enter"))
-print(a+b+5)
+print(a+b+100000)
